@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace istiaqhossain\phpmvc;
 
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+use istiaqhossain\phpmvc\Application;
+use istiaqhossain\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
@@ -12,7 +12,7 @@ class Controller
     public string $action =  '';
 
     /**
-     * @var \app\core\middlewares\BaseMiddleware[]
+     * @var \istiaqhossain\phpmvc\middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
     
