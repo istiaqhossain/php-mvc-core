@@ -1,0 +1,10 @@
+{
+    "name": "istiaqhossain/php-mvc-core",
+    "authors": [
+        {
+            "name": "Istiaq Hossain",
+            "email": "md.istiaqhossain1990@gmail.com"
+        }
+    ],
+    "require": {}
+}
