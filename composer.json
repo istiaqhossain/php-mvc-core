@@ -1,5 +1,6 @@
 {
     "name": "istiaqhossain/php-mvc-core",
+    "description": "PHP MVC Core",
     "authors": [
         {
             "name": "Istiaq Hossain",
@@ -12,5 +13,7 @@
             "istiaqhossain\\phpmvc\\" : "./"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
