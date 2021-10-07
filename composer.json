@@ -7,7 +7,7 @@
             "email": "md.istiaqhossain1990@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "istiaqhossain\\phpmvc\\" : "./"
